@@ -1,6 +1,7 @@
 # todo_app
 
 A new Flutter project.
+This To-Do App was created with Flutter and Dart. It works by adding todo items, deleting the todo items, searching the items, and storing all todo items in Local storage.  
 
 ## Getting Started
 
